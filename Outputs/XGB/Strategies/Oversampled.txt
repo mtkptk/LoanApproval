@@ -1,0 +1,21 @@
+Best parameters: {'subsample': 0.8, 'n_estimators': 300, 'max_depth': 7, 'learning_rate': 0.1, 'gamma': 1, 'colsample_bytree': 0.8}
+Best CV AUC-ROC score: 0.9937
+
+=== Test Set Performance ===
+AUC-ROC: 0.9791
+F1 Score: 0.8505
+PR-AUC: 0.9421
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.95      0.97      0.96      6993
+           1       0.88      0.82      0.85      2000
+
+    accuracy                           0.94      8993
+   macro avg       0.92      0.89      0.90      8993
+weighted avg       0.93      0.94      0.93      8993
+
+Confusion Matrix:
+[[6775  218]
+ [ 359 1641]]

@@ -1,0 +1,21 @@
+Best parameters: {'solver': 'lbfgs', 'penalty': 'l2', 'max_iter': 500, 'C': 0.1}
+Best CV AUC-ROC score: 0.9517
+
+=== Test Set Performance ===
+AUC-ROC: 0.9541
+F1 Score: 0.7371
+PR-AUC: 0.8572
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.97      0.84      0.90      6993
+           1       0.62      0.92      0.74      2000
+
+    accuracy                           0.85      8993
+   macro avg       0.79      0.88      0.82      8993
+weighted avg       0.89      0.85      0.86      8993
+
+Confusion Matrix:
+[[5854 1139]
+ [ 168 1832]]

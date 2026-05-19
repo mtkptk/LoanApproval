@@ -1,0 +1,27 @@
+Feature,Coefficient
+previous_loan_defaults_on_file_Yes,-5.671738846283326
+person_gender_male,-4.134734404653501
+person_gender_female,-4.016172325419048
+person_education_Bachelor,-3.7638657921092427
+person_home_ownership_MORTGAGE,-3.624132943516446
+person_education_High School,-3.593049996806427
+person_education_Associate,-3.579964419193808
+person_home_ownership_RENT,-3.5527629985705484
+loan_intent_EDUCATION,-3.1972039110756185
+loan_intent_VENTURE,-3.0655526224715595
+loan_intent_MEDICAL,-3.037832821198914
+loan_intent_PERSONAL,-2.91758817974023
+person_education_Master,-2.7940617029642403
+loan_intent_DEBTCONSOLIDATION,-2.7114881943908533
+loan_intent_HOMEIMPROVEMENT,-2.2106393372730873
+person_home_ownership_OWN,-1.9157813892004427
+loan_percent_income,1.6915129263638076
+loan_int_rate,1.011808676896709
+person_education_Doctorate,-0.8401159012071908
+loan_amnt,-0.7773623776256359
+credit_score,-0.4374275230627765
+person_home_ownership_OTHER,-0.2969042869216923
+person_income,0.21340908149759008
+person_age,0.1325873293152288
+person_emp_exp,-0.09079723611809083
+cb_person_cred_hist_length,-0.03331094101824782
